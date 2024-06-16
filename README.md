@@ -1,4 +1,4 @@
-# My-first-project
+# Frontend e-commerce website
 This is my first project on GitHub.
 
  Frontend e-commerce website using HTML, CSS and JavaScript.
